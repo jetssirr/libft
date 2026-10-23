@@ -1,0 +1,9 @@
+# libft — static library build artifacts
+libft.a
+*.o
+*.out
+
+# Editor / OS noise
+.vscode/
+*.swp
+.DS_Store
